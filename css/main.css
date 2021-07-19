@@ -117,6 +117,7 @@ h1 {
 @media only screen and (max-width: 1248px) {
   #huddle {
     height: auto;
+    padding-bottom: 20px;
   }
   #huddle .container {
     margin-top: 30px !important;

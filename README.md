@@ -1,10 +1,10 @@
-# Intro component with sign-up form
+# Huddle landing page with a single introductory section
 
 ![screenshot](/img/desktop-design.jpg)
 
 <br>
 
-[Visit Demo]()
+[Visit Demo](https://huddle-landing-page-pearl-five.vercel.app/)
 
 <br>
 
